@@ -5,8 +5,9 @@
 <div align="left">
 </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyhallenwu&layout=compact&langs_count=8" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=wyhallenwu" />
 <div align="right">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=wyhallenwu" />
+    
 </div>
 </span>
 </div>
