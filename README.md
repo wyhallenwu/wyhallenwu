@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning python, machine learning
 - 📫 How to reach me: wyhforwork66@gmail.com
 <div align="left">
-<span>  </span>
+</span>
 </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyhallenwu&layout=compact&langs_count=8" />
-<span>  </span>
+</span>
 </div>
 
-<div align="center">
+<div align="left">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=wyhallenwu" />
 </div>
