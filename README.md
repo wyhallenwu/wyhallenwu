@@ -4,10 +4,11 @@
 - 📫 How to reach me: wyhforwork66@gmail.com
 <div align="left">
 </span>
-</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyhallenwu&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyhallenwu&layout=compact&langs_count=8" />
+<div align="right">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=wyhallenwu" />
+</div>
 </span>
 </div>
 
-<div align="left">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=wyhallenwu" />
-</div>
+
