@@ -8,6 +8,7 @@
 <span>
   <a href="https://wyhallenwu.github.io/wuyuheng.github.io/" target="blank"> my page </a>
 </span>
+<span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyhallenwu&layout=compact&langs_count=8" />
 </span>
 </div>
