@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning machine learning, golang
 - 📫 How to reach me: wyhforwork66@gmail.com
 - My research interest are video stream analytics, network telemetry
-- [mypage](https://wyhallenwu.github.io/wuyuheng.github.io/)
+- [My githubio page](https://wyhallenwu.github.io/)
 <div align="left">
 </span>
 
