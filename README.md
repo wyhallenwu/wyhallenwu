@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%2C+I+am+Yuheng+Wu)](https://git.io/typing-svg)
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 
-Currently, I am a master's student studying at [Shanghai University](https://www.shu.edu.cn/). 
+Currently, I am an undergraduate student studying at [Shanghai University](https://www.shu.edu.cn/). 
 
 📫 You can visit my homepage on [wyhallenwu.github.io](https://wyhallenwu.github.io/)
 
