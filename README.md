@@ -55,8 +55,8 @@ Languages:
 <!-- <a href="https://linkedin.com/in/amir-pourmand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-pourmand" height="30" width="40" /></a> -->
 <a href="https://stackoverflow.com/users/14199653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4201765" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/pourmand.amir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pourmand.amir" height="30" width="40" /></a> -->
-<a href="https://www.kaggle.com/allenwyh" target="blank"><img align="center" src="https://raw.githubusercontent.com/pourmand1376/pourmand1376/main/icons/kaggle.svg" alt="amirpourmand" height="30" width="40" /></a>
-
+<!-- <a href="https://www.kaggle.com/allenwyh" target="blank"><img align="center" src="https://raw.githubusercontent.com/pourmand1376/pourmand1376/main/icons/kaggle.svg" alt="amirpourmand" height="30" width="40" /></a> -->
+<a href="https://www.kaggle.com/allenwyh"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
   
 </p>
 
