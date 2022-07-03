@@ -30,6 +30,9 @@ Languages:
 - **English**(fluent)
 - **Japanese**(intermediate)
 
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="wyhallenwu's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=wyhallenwu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=wyhallenwu.wyhallenwu)
 
 <h3 align="left">Connect with me:</h3>
