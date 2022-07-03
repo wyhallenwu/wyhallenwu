@@ -11,6 +11,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I'm%20wyhallenwu%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
+## 📘 About me
+
 Currently, I am an undergraduate student studying at [Shanghai University](https://www.shu.edu.cn/). 
 
 📫 You can visit my homepage on [wyhallenwu.github.io](https://wyhallenwu.github.io/)
