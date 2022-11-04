@@ -24,6 +24,12 @@ Plug 'mhinz/vim-startify'
 Plug 'https://github.com/tpope/vim-surround.git'
 Plug 'https://github.com/Yggdroot/indentLine.git'
 Plug 'https://github.com/easymotion/vim-easymotion.git'
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+Plug 'vim-test/vim-test'
+Plug 'prettier/vim-prettier', {
+   \ 'do': 'yarn install --frozen-lockfile --production',
+   \ 'branch': 'release/0.x'
+   \ }
 call plug#end()
 set background=dark
 colorscheme one
