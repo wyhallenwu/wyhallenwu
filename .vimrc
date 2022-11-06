@@ -6,8 +6,10 @@ set si
 set smarttab
 set rnu
 syntax on
-set termguicolors
+syntax enable
+set t_Co=256
 set nocompatible
+set autoindent
 set backspace=indent,eol,start
 
 call plug#begin('~/.vim/plugged')
@@ -31,7 +33,7 @@ Plug 'https://github.com/easymotion/vim-easymotion.git'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'vim-test/vim-test'
 Plug 'prettier/vim-prettier', { 'do': 'yarn install --frozen-lockfile --production' }
-Plug 'voldikss/vim-floaterm'
+" Plug 'voldikss/vim-floaterm'
 Plug 'google/vim-maktaba'
 Plug 'google/vim-codefmt'
 Plug 'google/vim-glaive'
@@ -50,15 +52,18 @@ let g:Lf_ShortcutF = "<leader>sf"
 " search most recent file
 noremap <leader>srf :Leaderf mru <CR>
 
-" vim floaterm settings
-nnoremap <silent> <leader>t  :FloatermNew<CR>
-nnoremap <silent> <leader>pt :FloatermPrev<CR>
-nnoremap <silent> <leader>nt :FloatermNext<CR>
-nnoremap <silent> <leader>ct :FloatermToggle<CR>
-nnoremap <silent> <leader>ht :FloatermHide<CR>
-
+" windows
+nnoremap <leader>- :vsplit<CR>
+nnoremap <leader>= :sp<CR>
+nnoremap <leader>> :vertical resize +5<CR>
+nnoremap <leader>< :vertical resize -5<CR>
+" vim terminal
+nnoremap <leader>rterm :rightb vert term<CR>
+nnoremap <leader>lterm :vert term<CR>
+nnoremap <leader>uterm :term<CR>
+nnoremap <leader>term :below terminal ++rows=10<CR>
 " nerdtree
-" Mirror the NERDTree before showing it. This makes it the same on all tabs.
+" Mirror tme NERDTree before showing it. This makes it the same on all tabs.
 nnoremap <leader>ls :NERDTree<CR>
 nnoremap <leader>cls :NERDTreeToggle<CR>
 nnoremap <leader>fls :NERDTreeFind<CR>
@@ -95,4 +100,5 @@ augroup autoformat_settings
   autocmd FileType vue AutoFormatBuffer prettier
   autocmd FileType swift AutoFormatBuffer swift-format
 augroup END
+
 
