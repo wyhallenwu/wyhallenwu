@@ -7,7 +7,7 @@ set smarttab
 set rnu
 syntax on
 syntax enable
-# set t_Co=256
+" set t_Co=256
 set termguicolors
 set nocompatible
 set autoindent
