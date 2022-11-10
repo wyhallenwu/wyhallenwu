@@ -33,7 +33,7 @@ Currently, I am an undergraduate student studying at [Shanghai University](https
 
 Techincal Skills:
 
-- **C++**: My first programming language. Get familiar with modern c++11/17.
+- **C++**: My first programming language. Get familiar with modern c++11.
 - **Python**: mainly used for data science and deep learning projects. Proficiency in pytorch...
 - **others**: docker, latex, golang, html/css/js, git...
 
