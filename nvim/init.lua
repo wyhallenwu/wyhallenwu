@@ -1,0 +1,12 @@
+require("plugins")
+require("settings.indent_line")
+require("settings.lualine")
+require("settings.lsp_config")
+require("settings.mason")
+require("settings.mason_lsp")
+require("settings.nvim_tree")
+require("settings.nvim-cmp")
+require("settings.null_ls")
+require("settings.theme")
+require("keybinds")
+vim.cmd[[colorscheme tokyonight]]
