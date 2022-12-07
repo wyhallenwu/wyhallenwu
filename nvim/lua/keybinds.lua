@@ -1,8 +1,8 @@
-local opts = {noremap = true, silent = true}
+local opts = { noremap = true, silent = true }
 local keymap = vim.api.nvim_set_keymap
 
 -- leader key
-keymap("", "<Space>","<Nop>", opts)
+keymap("", "<Space>", "<Nop>", opts)
 vim.g.mapleader = " "
 vim.g.maplocalleader = " "
 vim.g.fileencoding = "utf-8"
@@ -34,12 +34,11 @@ vim.o.termguicolors = true
 vim.opt.termguicolors = true
 
 -- buffer switch
-keymap("n", "<leader>[", ":bn<CR>", opts)
-keymap("n", "<leader>]", ":bp<CR>", opts)
+keymap("n", "<C-h>", ":bn<CR>", opts)
+keymap("n", "<C-l>", ":bp<CR>", opts)
 
 -- leaderF
 keymap("n", "<leader>srf", ":Leaderf mru<CR>", opts)
-
 
 -- window splits
 keymap("n", "<leader>-", ":vsplit<CR>", opts)
@@ -51,4 +50,3 @@ keymap("n", "<leader><", ":vertical resize -5<CR>", opts)
 keymap("n", "<leader>term", ":below terminal ++rows=13<CR>", opts)
 keymap("n", "<leader>rterm", ":rightb vert term<CR>", opts)
 keymap("n", "<leader>lterm", ":vert term<CR>", opts)
-

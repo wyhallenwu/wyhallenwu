@@ -4,46 +4,51 @@ return require("packer").startup(function()
 		"kyazdani42/nvim-tree.lua",
 		requires = "kyazdani42/nvim-web-devicons",
 	})
-	-- theme 
-    use('folke/tokyonight.nvim')
-    use {
-    'goolord/alpha-nvim',
-    requires = { 'nvim-tree/nvim-web-devicons' },
-    config = function ()
-        require'alpha'.setup(require'alpha.themes.startify'.config)
-    end
-}
+	-- theme
+	use("folke/tokyonight.nvim")
+	use({
+		"goolord/alpha-nvim",
+		requires = { "nvim-tree/nvim-web-devicons" },
+		config = function()
+			require("alpha").setup(require("alpha.themes.startify").config)
+		end,
+	})
 	use("lukas-reineke/indent-blankline.nvim")
 
-    use({ "nvim-treesitter/nvim-treesitter", run = ":TSUpdate" })
+	use({ "nvim-treesitter/nvim-treesitter", run = ":TSUpdate" })
 	use("nvim-lualine/lualine.nvim")
-    use {'akinsho/bufferline.nvim', tag = "v3.*", requires = 'nvim-tree/nvim-web-devicons'}
+	use({ "akinsho/bufferline.nvim", tag = "v3.*", requires = "nvim-tree/nvim-web-devicons" })
 
 	-- lsp
-    use("neovim/nvim-lspconfig")
-    use("williamboman/mason.nvim")
-    use("williamboman/mason-lspconfig.nvim")
-    use({ "jose-elias-alvarez/null-ls.nvim", requires = "nvim-lua/plenary.nvim" })
-    use("mfussenegger/nvim-dap")
-    use("Yggdroot/LeaderF")
+	use("neovim/nvim-lspconfig")
+	use("williamboman/mason.nvim")
+	use("williamboman/mason-lspconfig.nvim")
+	use({ "jose-elias-alvarez/null-ls.nvim", requires = "nvim-lua/plenary.nvim" })
 
+	use("Yggdroot/LeaderF")
+	use("mhartington/formatter.nvim")
+
+	use({
+		"windwp/nvim-autopairs",
+		config = function()
+			require("nvim-autopairs").setup({})
+		end,
+	})
     use {
-	"windwp/nvim-autopairs",
-    config = function() require("nvim-autopairs").setup {} end
+    'numToStr/Comment.nvim',
+    config = function()
+        require('Comment').setup()
+    end
     }
-    use("terrortylor/nvim-comment")
-
-    -- nvim-cmp
-    use("hrsh7th/cmp-nvim-lsp")
+	-- nvim-cmp
+	use("hrsh7th/cmp-nvim-lsp")
 	use("hrsh7th/cmp-buffer")
 	use("hrsh7th/cmp-path")
 	use("hrsh7th/cmp-cmdline")
 	use("hrsh7th/nvim-cmp")
 	-- vsnip
 	use("hrsh7th/cmp-vsnip")
-    use("hrsh7th/vim-vsnip")
-    -- lspkind
-    use('onsails/lspkind-nvim')
-
+	use("hrsh7th/vim-vsnip")
+	-- lspkind
+	use("onsails/lspkind-nvim")
 end)
-
