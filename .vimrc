@@ -34,18 +34,18 @@ Plug 'https://github.com/easymotion/vim-easymotion.git'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'vim-test/vim-test'
 Plug 'prettier/vim-prettier', { 'do': 'yarn install --frozen-lockfile --production' }
-" Plug 'ervandew/supertab'
-" Plug 'voldikss/vim-floaterm'
 Plug 'google/vim-maktaba'
 Plug 'google/vim-codefmt'
 Plug 'google/vim-glaive'
 " buffer line
 Plug 'ryanoasis/vim-devicons'
-" Plug 'akinsho/bufferline.nvim', { 'tag': 'v3.*' }
 Plug 'bling/vim-bufferline'
+" markdown preview
+Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install' }
+Plug 'joshdick/onedark.vim'
 call plug#end()
 set background=dark
-colorsche one
+colorscheme onedark
 
 
 let g:ariline_theme='one'
@@ -116,11 +116,11 @@ augroup END
 " no select by `"suggest.noselect": true` in your configuration file.
 " NOTE: Use command ':verbose imap <tab>' to make sure tab is not mapped by
 " other plugin before putting this into your config.
-inoremap <silent><expr> <TAB>
-      \ coc#pum#visible() ? coc#pum#next(1) :
-      \ CheckBackspace() ? "\<Tab>" :
-      \ coc#refresh()
-inoremap <expr><S-TAB> coc#pum#visible() ? coc#pum#prev(1) : "\<C-h>"
+" inoremap <silent><expr> <TAB>
+"       \ coc#pum#visible() ? coc#pum#next(1) :
+"       \ CheckBackspace() ? "\<Tab>" :
+"       \ coc#refresh()
+" inoremap <expr><S-TAB> coc#pum#visible() ? coc#pum#prev(1) : "\<C-h>"
 
 " Make <CR> to accept selected completion item or notify coc.nvim to format
 " <C-g>u breaks current undo, please make your own choice.

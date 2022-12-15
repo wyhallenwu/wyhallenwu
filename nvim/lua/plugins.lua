@@ -40,6 +40,15 @@ return require("packer").startup(function()
         require('Comment').setup()
     end
     }
+    --nvim hop
+    use {
+    'phaazon/hop.nvim',
+    branch = 'v2', -- optional but strongly recommended
+    config = function()
+    -- you can configure Hop the way you like here; see :h hop-config
+        require'hop'.setup { }
+        end
+    }
 	-- nvim-cmp
 	use("hrsh7th/cmp-nvim-lsp")
 	use("hrsh7th/cmp-buffer")
