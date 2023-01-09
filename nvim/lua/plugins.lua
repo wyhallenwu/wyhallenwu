@@ -5,7 +5,7 @@ return require("packer").startup(function()
 		requires = "kyazdani42/nvim-web-devicons",
 	})
 	-- theme
-	use("folke/tokyonight.nvim")
+    use("navarasu/onedark.nvim")
 	use({
 		"goolord/alpha-nvim",
 		requires = { "nvim-tree/nvim-web-devicons" },
