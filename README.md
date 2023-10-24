@@ -13,13 +13,7 @@
 
 ## 📘 About me
 
-Currently, I am a fourth-year undergraduate student studying at [Shanghai University](https://www.shu.edu.cn/). 
-
-📫 You can visit my homepage on [wyhallenwu.github.io](https://wyhallenwu.github.io/)
-
-- [GitHub Online Resume](https://github.com/wyhallenwu)
-<!-- - [GitHub Public Gists](https://gist.github.com/pourmand1376) -->
-
+Currently, I am a first-year master sutdent studying at [Korea Advanced Institute of Science & Technology](https://www.kaist.ac.kr/kr/). Prior to that, I received my bachelor's degree in Cyber Security at Shanghai University, under the supervision of Prof.Chenhong Cao.
 
 
 ## Research Interests:  
