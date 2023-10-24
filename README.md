@@ -13,7 +13,7 @@
 
 ## 📘 About me
 
-Currently, I am a first-year master sutdent studying at [Korea Advanced Institute of Science & Technology](https://www.kaist.ac.kr/kr/). Prior to that, I received my bachelor's degree in Cyber Security at Shanghai University, under the supervision of Prof.Chenhong Cao.
+Currently, I am a first-year master sutdent advised by prof.Seung-Hyun Kong, studying at [AVE lab](https://ave.kaist.ac.kr/index.php) [Korea Advanced Institute of Science & Technology](https://www.kaist.ac.kr/kr/). Prior to that, I received my bachelor's degree in Cyber Security at Shanghai University, under the supervision of Prof.Chenhong Cao.
 
 
 ## Research Interests:  
