@@ -12,5 +12,5 @@ My research interests revolve around the synergistic integration of AI within Ne
 
 Recently, my research has primarily concentrated on enhancing congestion control and the scheduling of network resources.
 
-## Research Interests:  
+### Research Interests 
 Deep Reinforcement Learning for decision making, AI for networks and networks for AI
