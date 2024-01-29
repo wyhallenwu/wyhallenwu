@@ -6,24 +6,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I'm%20wyhallenwu%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
+I’m a first-year Master student in the [School of Computing](https://cs.kaist.ac.kr/), [Korea Advanced Institute of Science & Technology](https://www.kaist.ac.kr/kr/). I’m working with my colleagues at the [Collaborative Distributed Systems and Networks Lab](http://cds.kaist.ac.kr/cdsn/?page_id=8), under the supervision of Prof.Dongman Lee. Prior to that, I received my B.Eng degree in Cyberspace Security from the School of Computer Science and Engineering at [Shanghai University](https://www.shu.edu.cn/) where I was fortunately mentored by Prof.Chenhong Cao.
 
-## 📘 About me
+My research interests revolve around the synergistic integration of AI within Networked Systems and conversely, the application of Networked Systems to enhance AI capabilities.This involves a nuanced blend of AI methodologies with conventional networked systems to achieve a more efficient, intelligent, and robust networking infrastructure. My goal is to develop more efficient, adaptive, and intelligent systems that can effectively manage network traffic and optimize resource allocation in an increasingly digital and interconnected world.
 
-Currently, I am a first-year master sutdent at KAIST. Prior to that, I received my bachelor's degree in Cyber Security(affiliated to Computer Science) at Shanghai University, under the supervision of Prof.Chenhong Cao.
-
+Recently, my research has primarily concentrated on enhancing congestion control and the scheduling of network resources.
 
 ## Research Interests:  
-Deep Reinforcement Learning for Real-World System, DRL for decision-making
-
-## Languages:
-- **Mandarin**(native)
-- **English**(fluent)
-- **Japanese**(intermediate)
-- **korean**(beginner)
-
-
-
+Deep Reinforcement Learning for decision making, AI for networks and networks for AI
