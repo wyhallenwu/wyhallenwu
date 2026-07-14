@@ -8,7 +8,4 @@
 
 I’m an incoming PhD student in the [School of Computing](https://cs.kaist.ac.kr/), [Korea Advanced Institute of Science & Technology](https://www.kaist.ac.kr/kr/). I’m working with my colleagues at the [Collaborative Distributed Systems and Networks Lab](http://cds.kaist.ac.kr/cdsn/?page_id=8), under the supervision of Prof.Dongman Lee. Prior to that, I received my B.Eng degree in Cyberspace Security from the School of Computer Science and Engineering at [Shanghai University](https://www.shu.edu.cn/) where I was fortunately mentored by Prof.Chenhong Cao.
 
-My research interest lies broadly in topics of building high-performance (scalable & cost-effective) networked systems. Recently, my research has primarily concentrated on multi-agent collaborative embodied intelligent system (e.g. V2X as an application). 
-
-### Research Interests 
-Real-time and Interactive Video Generation, Video World Model
+My research broadly focuses on building general-purpose video world models. More recently, I have concentrated on real-time and interactive video generation, as well as video-based world modeling.
