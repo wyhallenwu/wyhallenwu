@@ -11,4 +11,4 @@ I’m an incoming PhD student in the [School of Computing](https://cs.kaist.ac.k
 My research interest lies broadly in topics of building high-performance (scalable & cost-effective) networked systems. Recently, my research has primarily concentrated on multi-agent collaborative embodied intelligent system (e.g. V2X as an application). 
 
 ### Research Interests 
-Multi-agent Embodied Intelligent System, V2X, Collaborative End-to-End Autonomous Driving
+Real-time and Interactive Video Generation, Video World Model
